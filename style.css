@@ -1,0 +1,42 @@
+body{
+    color:darkslategray;
+    background-color:rgb(165, 136, 98) ;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px
+}
+
+.disp{
+    text-align: center;
+    list-style-position: inside;
+    list-style-type:none 
+}
+
+button{
+    margin-bottom: 50px;
+    height: 50px;
+    width: 400px;
+    font-size: 0.5cm;
+    border-radius: 20px;
+    font-weight: bold;
+    color: darkslategray;
+    background-color: burlywood;
+    border-color: darkslategray;
+}
+
+img{
+    border: 10px solid;
+    border-radius: 30px;
+    border-color: darkslategray;
+}
+
+.rec{
+    margin: auto;
+    display: block ;
+    padding: 16px;
+    border: 10px solid darkslategray;
+    border-radius: 30px;
+    width: 1000px;
+}
