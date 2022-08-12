@@ -6,3 +6,7 @@ In this case we will aply all the knowledge learned in the HTML and Git lessons 
 
 ## Skills proved 
 By the end of this assigment i will have proved a basic domain of the HTML lenguaje. This may be noticeable in the elements used on the website. I will also prove a basic level of Git because i only will do commits and not use branches. 
+
+#### Link to the web
+[Click here](https://guille26121.github.io/Recipes-Website/index.html)
+
